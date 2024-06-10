@@ -12,3 +12,11 @@ Inventory Management: Digital management of medical supplies to streamline resou
 User Feedback: Continuous improvement through user suggestions.</br>
 Additional Features: Online drug ordering, real-time waiting room updates, emergency response logs, and an administrator dashboard.</br>
 
+## Technology Stack
+* Frontend: HTML, CSS, JavaScript, PHP, Bootstrap, and Tailwind create a responsive and user-friendly interface.
+* Backend: Python and the Django framework handle the business logic and server-side operations, providing a robust and scalable backend infrastructure.
+* Database: SQL is used for database management, hosted on a cloud-based platform (https://www.freesqldatabase.com/) to ensure scalability and reliability.
+* File Storage: Local filesystem storage is utilized for handling file uploads and user data.
+* External APIs: Integration with external APIs such as Razorpay for payment processing, online pharmacy services, and inventory management enhances the platform's capabilities.
+* References: The development follows best practices and guidelines from resources such as Mozilla Developer Network and Wikipedia.
+
