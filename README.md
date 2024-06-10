@@ -1,7 +1,7 @@
 # VITmeds
 VITmeds is a comprehensive web application developed to revolutionize healthcare delivery at VIT University.
 It is designed specifically for the university's students, faculty, and staff, addressing unique challenges in accessing and managing healthcare within an educational institution.
-
+ ![Logo](https://github.com/aryan-1203/VITmeds/assets/162081174/aec35b8a-2e1b-4bcd-a50e-a6b7cf50911e)
 
 ## Functionality and Working </br>
 * Appointment Management: Automated scheduling minimizes missed appointments and waiting times.</br>
